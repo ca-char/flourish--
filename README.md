@@ -10,7 +10,7 @@ Flourish is a Flask-based plant care tracker web app
 
 ## Installation
 
-- clone the repo: git clone https://github.com/ca-char/flourish.git
+- clone the repo: git clone https://github.com/ca-char/flourish--.git 
 - create a virtual environment:
   python3 -m venv venv  
   source venv/bin/activate (Linux/macOS)  
@@ -42,3 +42,7 @@ Add your plants, enjoy!
 ## Running Tests
 
 - To run the test suite: pytest
+
+## Hosted publicly
+
+- https://flourish-4d78.onrender.com
