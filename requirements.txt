@@ -9,3 +9,4 @@ Jinja2
 pytest
 pytest-flask
 gunicorn
+email_validator
